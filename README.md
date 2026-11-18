@@ -35,6 +35,8 @@ Practitioners who read, compare, and clean file metadata in bulk.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-read-metadata` | Reading metadata from images and documents |
